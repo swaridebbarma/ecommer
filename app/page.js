@@ -6,8 +6,10 @@ export default function Home() {
     <main className={styles.main}>
       <h1>Header</h1>
       <h2>display</h2>
+      <h1>Final Display</h1>
       <div className={styles.description}>
-      	<h1>display two</div>
+        <h1>display two</h1>
+
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.js</code>
